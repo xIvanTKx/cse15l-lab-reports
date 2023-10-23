@@ -1,4 +1,4 @@
-# Part 1
+# Lab Report 2 - Part 1
 Code for *StringServer.java*
 ```
 import java.io.IOException;
