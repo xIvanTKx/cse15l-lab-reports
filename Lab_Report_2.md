@@ -88,11 +88,11 @@ public class StringServer
 Using the command line, show with `ls` and take screenshots of:
 1. The path to the private key for your SSH key for logging into ieng6 (on your computer or on the home directory of the lab computer)
 
-    ![image](https://github.com/xIvanTKx/cse15l-lab-reports/assets/110268085/2a91b0a5-3ff8-4249-a6f5-cd1b53d21d32)
+    ![image](https://github.com/xIvanTKx/cse15l-lab-reports/assets/110268085/c3bd8d4b-4abf-47ca-bdde-9923de36d256)
 
 2. The path to the public key for your SSH key for logging into ieng6 (within your account on ieng6)
 
-    ![image](https://github.com/xIvanTKx/cse15l-lab-reports/assets/110268085/afbd9d4f-bd41-456e-b11b-bb6efd792b11)
+    ![image](https://github.com/xIvanTKx/cse15l-lab-reports/assets/110268085/8ba879f7-33ab-4ce5-8f18-c79e5e96dec7)
 
 3. A terminal interaction where you log into ieng6 with your course-specific account without being asked for a password.
 
