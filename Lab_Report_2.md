@@ -78,10 +78,8 @@ public class StringServer
   5. This formatted message is added to `stringList`, which now contains two elements.
   6. The `lineNumber` is incremented to 3.
   7. The response will be:
-     ```
-     1. Hello
-     2. How are you
-     ```
+      `1. Hello`
+      `2. How are you`
   8. The relevant fields in this case, `stringList` and `lineNumber`, have changed to reflect the added string and updated lineNumber in response to the requests.
 
 # Part 2
