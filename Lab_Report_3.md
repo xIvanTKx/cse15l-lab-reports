@@ -1,6 +1,7 @@
 # Lab Report 3: Part 1 - Bugs
 
 * A failure-inducing input for the buggy program, as a JUnit test and any associated code
+
 ```
 @Test
 public void testReverseInPlaceFail() {
@@ -17,6 +18,7 @@ public void testReversedFail() {
 }
 ```
 * An input that doesn’t induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown)
+
 ```
 @Test 
 public void testReverseInPlace() {
@@ -35,6 +37,7 @@ public void testReversed() {
 * The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above)
   ![image](https://github.com/xIvanTKx/cse15l-lab-reports/assets/110268085/aecdfe4c-d310-4819-beae-c13dc83b4457)
 * The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown)
+
 ```
 // Before
 static void reverseInPlace(int[] arr) {
@@ -51,6 +54,7 @@ static int[] reversed(int[] arr) {
     return arr;
 }
 ```
+
 ```
 // After
 static void reverseInPlace(int[] arr) {
